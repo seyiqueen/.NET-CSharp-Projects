@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/bin/Debug/net7.0/SimpleCSharpApp
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/bin/Debug/net7.0/SimpleCSharpApp.deps.json
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/bin/Debug/net7.0/SimpleCSharpApp.runtimeconfig.json
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/bin/Debug/net7.0/SimpleCSharpApp.dll
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/bin/Debug/net7.0/SimpleCSharpApp.pdb
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.dll
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/refint/SimpleCSharpApp.dll
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.pdb
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/SimpleCSharpApp.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/SimpleCSharpApp/SimpleCSharpApp/obj/Debug/net7.0/ref/SimpleCSharpApp.dll
