@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/bin/Debug/net7.0/BasicIO
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/bin/Debug/net7.0/BasicIO.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/bin/Debug/net7.0/BasicIO.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/bin/Debug/net7.0/BasicIO.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/bin/Debug/net7.0/BasicIO.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/refint/BasicIO.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/BasicIO.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/BasicIO/BasicIO/obj/Debug/net7.0/ref/BasicIO.dll
