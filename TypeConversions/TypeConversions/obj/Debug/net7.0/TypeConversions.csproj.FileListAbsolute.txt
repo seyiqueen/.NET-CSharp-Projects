@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/bin/Debug/net7.0/TypeConversions
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/bin/Debug/net7.0/TypeConversions.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/bin/Debug/net7.0/TypeConversions.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/bin/Debug/net7.0/TypeConversions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/bin/Debug/net7.0/TypeConversions.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/refint/TypeConversions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/TypeConversions.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/TypeConversions/TypeConversions/obj/Debug/net7.0/ref/TypeConversions.dll
