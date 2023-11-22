@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/bin/Debug/net7.0/StringData
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/bin/Debug/net7.0/StringData.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/bin/Debug/net7.0/StringData.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/bin/Debug/net7.0/StringData.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/bin/Debug/net7.0/StringData.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/refint/StringData.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/StringData.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/StringData/StringData/obj/Debug/net7.0/ref/StringData.dll
