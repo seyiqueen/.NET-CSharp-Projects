@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/bin/Debug/net7.0/ImplicitlyTypedLocalVars
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/bin/Debug/net7.0/ImplicitlyTypedLocalVars.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/bin/Debug/net7.0/ImplicitlyTypedLocalVars.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/bin/Debug/net7.0/ImplicitlyTypedLocalVars.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/bin/Debug/net7.0/ImplicitlyTypedLocalVars.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/refint/ImplicitlyTypedLocalVars.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ImplicitlyTypedLocalVars.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/ImplicitlyTypedLocalVars/ImplicitlyTypedLocalVars/obj/Debug/net7.0/ref/ImplicitlyTypedLocalVars.dll
