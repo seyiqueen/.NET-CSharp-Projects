@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/bin/Debug/net7.0/IterationsAndDecisions
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/bin/Debug/net7.0/IterationsAndDecisions.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/bin/Debug/net7.0/IterationsAndDecisions.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/bin/Debug/net7.0/IterationsAndDecisions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/bin/Debug/net7.0/IterationsAndDecisions.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/refint/IterationsAndDecisions.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/IterationsAndDecisions.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/IterationsAndDecisions/IterationsAndDecisions/obj/Debug/net7.0/ref/IterationsAndDecisions.dll
