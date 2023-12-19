@@ -1,0 +1,14 @@
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/bin/Debug/net7.0/UnderstandingMethods
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/bin/Debug/net7.0/UnderstandingMethods.deps.json
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/bin/Debug/net7.0/UnderstandingMethods.runtimeconfig.json
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/bin/Debug/net7.0/UnderstandingMethods.dll
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/bin/Debug/net7.0/UnderstandingMethods.pdb
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.AssemblyInfoInputs.cache
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.AssemblyInfo.cs
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.csproj.CoreCompileInputs.cache
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.dll
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/refint/UnderstandingMethods.dll
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.pdb
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/UnderstandingMethods.genruntimeconfig.cache
+/Users/seyi/Projects/UnderstandingMethods/UnderstandingMethods/obj/Debug/net7.0/ref/UnderstandingMethods.dll

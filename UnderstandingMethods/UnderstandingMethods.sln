@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingMethods", "UnderstandingMethods\UnderstandingMethods.csproj", "{BBF21B5D-3E51-4A31-94FB-E236B45B8121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF21B5D-3E51-4A31-94FB-E236B45B8121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF21B5D-3E51-4A31-94FB-E236B45B8121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF21B5D-3E51-4A31-94FB-E236B45B8121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF21B5D-3E51-4A31-94FB-E236B45B8121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876ADF99-620D-425F-AF31-A5F1EE3D7A62}
+	EndGlobalSection
+EndGlobal
