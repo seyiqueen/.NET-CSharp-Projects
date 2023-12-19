@@ -1,0 +1,14 @@
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/bin/Debug/net7.0/FunWithArrays
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/bin/Debug/net7.0/FunWithArrays.deps.json
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/bin/Debug/net7.0/FunWithArrays.runtimeconfig.json
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/bin/Debug/net7.0/FunWithArrays.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/bin/Debug/net7.0/FunWithArrays.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.AssemblyInfoInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.AssemblyInfo.cs
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.csproj.CoreCompileInputs.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/refint/FunWithArrays.dll
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.pdb
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/FunWithArrays.genruntimeconfig.cache
+/Users/seyi/DotnetProjects/DotnetTutorials/FunWithArrays/FunWithArrays/obj/Debug/net7.0/ref/FunWithArrays.dll
