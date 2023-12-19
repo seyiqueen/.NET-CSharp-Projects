@@ -282,7 +282,7 @@ static void WorkingWithArrayUsingIndicesAndRanges()
     Index idx1 = 0;
     Index idx2 = 2;
     Range r1 = idx1..idx2; //the end of range is exclusive
-    foreach (var itm in gothicBands[r])
+    foreach (var itm in gothicBands[r1])
     {
         // Print a name
         Console.Write(itm + ", ");
